@@ -76,7 +76,7 @@ print("""
                                               01
                                     010101010101010101
 """)
-print("\t\t\t\t\t\t\tW E L C O M E","  ", *sys_user,sep=" ")
+print("\t\t\t\t\tW E L C O M E","  ", *sys_user,sep=" ")
 print("\n")
 
 def get_word():
